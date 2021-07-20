@@ -1,0 +1,15 @@
+ul{
+    display: flex;
+    width: 50%;
+    margin: auto;
+    justify-content: center;
+}
+li{
+    width: 30%;
+    align-items: center;
+    display: block;
+}
+a{
+    display: block;
+    text-align: center;
+}
